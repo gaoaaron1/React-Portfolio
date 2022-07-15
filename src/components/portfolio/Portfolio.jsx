@@ -2,8 +2,7 @@ import React from 'react'
 import './portfolio.css'
 
 const Portfolio = () => {
-  return 
-  (
+  return  (
     <div>Portfolio</div>
   )
 }
