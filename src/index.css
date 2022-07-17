@@ -60,6 +60,7 @@ h1 {
 
 section {
     margin-top: 8rem;
+    height: 100vh;
 }
 
 /*h2 is the subheader, while h5 is the header. */
