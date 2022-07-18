@@ -29,7 +29,7 @@ const About = () => {
                         <article className='about__card'>
                             <FiUsers className='about__icon'/>
                             <h5>Clients</h5>
-                            <small>20+ Worldwide</small>
+                            <small>20w+ Worldwide</small>
                         </article>
 
                         <article className='about__card'>
@@ -40,7 +40,7 @@ const About = () => {
                     </div>
 
                     <p>
-                        Computer Science Student.
+                        Computer Science Student at the University of Calgary.
                     </p>
 
                     <a href="#contact" className='btn btn-primary'>Let's Talk</a>
