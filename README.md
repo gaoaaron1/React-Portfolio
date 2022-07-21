@@ -1,5 +1,7 @@
 My personal self-portfolio that is built using React JS for the front-end interface. 
 
+Install the 'swiper' library to ensure the swipers work. 
+### `npm install swiper`
 
 //------------------------- HOW TO RUN -----------------------------------//
 
