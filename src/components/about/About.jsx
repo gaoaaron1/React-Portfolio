@@ -29,7 +29,7 @@ const About = () => {
                         <article className='about__card'>
                             <FiUsers className='about__icon'/>
                             <h5>Clients</h5>
-                            <small>20w+ Worldwide</small>
+                            <small>20+ Worldwide</small>
                         </article>
 
                         <article className='about__card'>
@@ -40,7 +40,7 @@ const About = () => {
                     </div>
 
                     <p>
-                        Computer Science Student at the University of Calgary.
+                        Computer Science Student at the University of Calgary. Academic Tutor at Tutor Doctor teaching primarily the subjects of Mathematics, Science and English Language Arts.
                     </p>
 
                     <a href="#contact" className='btn btn-primary'>Let's Talk</a>
