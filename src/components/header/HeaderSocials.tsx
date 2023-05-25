@@ -3,7 +3,7 @@ import {BsLinkedin} from 'react-icons/bs'
 import {FaGithub} from 'react-icons/fa'
 import {FiDribbble} from 'react-icons/fi'
 
-const HeaderSocials = () => {
+const HeaderSocials: React.FC = () => {
   return (
     <div className='header__socials'>
         <a href="https://linkedin.com" target="_blank"><BsLinkedin/></a>
