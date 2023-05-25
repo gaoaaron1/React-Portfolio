@@ -4,7 +4,7 @@ import {FaFacebookF} from 'react-icons/fa'
 import {FiInstagram} from 'react-icons/fi'
 import {IoLogoTwitter} from 'react-icons/io'
 
-const Footer = () => {
+const Footer: React.FC = () => {
   return (
     <footer>
       <a href="#" className='footer__logo'>Aaron</a>

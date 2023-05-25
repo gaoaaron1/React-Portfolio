@@ -1,10 +1,11 @@
 import React from 'react'
 import './header.css'
 import CTA from './CTA'
-import ME from '../../assets/me.png'
 import HeaderSocial from './HeaderSocials'
 
-const Header = () => {
+const ME = require('../../assets/aaron.PNG');
+
+const Header: React.FC = () => {
   return (
     <header>
       <div className=".container header__container">

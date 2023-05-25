@@ -1,11 +1,13 @@
 import React from 'react'
-import './about.css'
-import ME from '../../assets/me-about.png'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
 
-const About = () => {
+import './about.css'
+
+const ME = require('../../assets/me-about.png');
+
+const About: React.FC = () => {
     return (
         <section id='about'>
             <h5>Get to know</h5>
